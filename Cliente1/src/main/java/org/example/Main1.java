@@ -1,4 +1,4 @@
-public static void main(String[] args) {
+/*public static void main(String[] args) {
 final String SERVER_IP = "127.0.0.1"; // Cambiar por la IP del servidor
 final int SERVER_PORT = 12345;
 
@@ -20,4 +20,4 @@ final int SERVER_PORT = 12345;
         System.err.println("No se pudo establecer conexión con el servidor.");
         e.printStackTrace();
         }
-        }
+        }*/
